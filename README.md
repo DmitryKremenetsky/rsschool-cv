@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://dmitrykremenetsky.github.io/rsschool-cv/cv
+## https://dmitrykremenetsky.github.io/rsschool-cv/
