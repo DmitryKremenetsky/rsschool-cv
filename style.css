@@ -1,0 +1,100 @@
+h3 {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #ebcb8b;
+}
+
+h5 {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #ebcb8b;
+}
+
+p {
+  margin: 10px;
+  color: #ebcb8b;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 20px auto;
+  width: 1024px;
+  font-size: 18px;
+}
+
+.two-columns {
+  display: flex;
+}
+
+.left-column {
+  width: 42%;
+  height: auto;
+  float: left;
+  background-color: #000000;
+}
+
+.summary-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts {
+  margin: 0 0 20px 0;
+  padding: 0 0 0 20px;
+}
+
+.social-link {
+  margin: 20px auto;
+  height: 100%;
+}
+
+.linkedin {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-linkedin {
+  padding: 14px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.telegram {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-telegram {
+  padding: 12.5px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.google {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-google {
+  padding: 14px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.skills-text {
+  margin: 0 0 0 28px;
+  font-family: "Gill Sans", sans-serif;
+  color: #ebcb8b;
+}
+
+.right-column {
+  width: 58%;
+}
+
+footer {
+
+}
