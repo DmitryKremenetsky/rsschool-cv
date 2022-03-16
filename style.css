@@ -136,6 +136,12 @@ a {
   margin-left: 18px;
 }
 
-footer {
+.right-skills {
+  margin: 0 0 0 28px;
+  font-family: "Gill Sans", sans-serif;
+  color: #0a0a0a;
+}
 
+footer {
+  
 }
