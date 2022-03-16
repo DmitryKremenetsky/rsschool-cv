@@ -1,25 +1,29 @@
 h1 {
   font-family: "Gill Sans", sans-serif;
   text-transform: uppercase;
-  color: #ebcb8b; 
+  color: #fff; 
 }
 
 h3 {
   font-family: "Gill Sans", sans-serif;
   text-transform: uppercase;
-  color: #ebcb8b;
+  color: #fff;
 }
 
 h5 {
   font-family: "Gill Sans", sans-serif;
   text-transform: uppercase;
-  color: #ebcb8b;
+  color: #fff;
 }
 
 p {
   margin: 10px;
-  color: #ebcb8b;
+  color: #fff;
   font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
 
 .container {
@@ -36,7 +40,7 @@ p {
   width: 42%;
   height: auto;
   float: left;
-  background-color: #000000;
+  background-color: #2f363c;
 }
 
 .summary-photo {
@@ -94,7 +98,7 @@ p {
 .skills-text {
   margin: 0 0 0 28px;
   font-family: "Gill Sans", sans-serif;
-  color: #ebcb8b;
+  color: #fff;
 }
 
 .right-column {
@@ -102,10 +106,20 @@ p {
   margin: 48px;
 }
 
+.right-text {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #0a0a0a;
+}
+
+.right-description {
+  font-family: "Gill Sans", sans-serif;
+  color: #0a0a0a;
+}
+
 .exprience-description {
   display: flex;
 }
-
 
 .figure {
   width: 44px;
@@ -118,7 +132,7 @@ p {
 
 .vertical-line {
   border-left: 6px solid #ebcb8b;
-  height: 106px;
+  height: 120px;
   margin-left: 18px;
 }
 
