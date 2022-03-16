@@ -143,5 +143,6 @@ a {
 }
 
 footer {
-  
+  height: 150px;
+  background-color: #0a0a0a;
 }
