@@ -1,0 +1,148 @@
+h1 {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #fff; 
+}
+
+h3 {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+h5 {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+p {
+  margin: 10px;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: 20px auto;
+  width: 1024px;
+  font-size: 18px;
+}
+
+.two-columns {
+  display: flex;
+}
+
+.left-column {
+  width: 42%;
+  height: auto;
+  float: left;
+  background-color: #2f363c;
+}
+
+.summary-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts {
+  margin: 0 0 20px 0;
+  padding: 0 0 0 20px;
+}
+
+.social-link {
+  margin: 20px auto;
+  height: 100%;
+}
+
+.linkedin {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-linkedin {
+  padding: 14px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.telegram {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-telegram {
+  padding: 12.5px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.google {
+  display: flex;
+  margin: 0 0 8px 0;
+}
+
+.fa-google {
+  padding: 14px;
+  text-align: center;
+  background: #007bb5;
+  color: #fff;
+}
+
+.skills-text {
+  margin: 0 0 0 28px;
+  font-family: "Gill Sans", sans-serif;
+  color: #fff;
+}
+
+.right-column {
+  width: 58%;
+  margin: 48px;
+}
+
+.right-text {
+  font-family: "Gill Sans", sans-serif;
+  text-transform: uppercase;
+  color: #0a0a0a;
+}
+
+.right-description {
+  font-family: "Gill Sans", sans-serif;
+  color: #0a0a0a;
+}
+
+.exprience-description {
+  display: flex;
+}
+
+.figure {
+  width: 44px;
+}
+
+.fa-circle {
+  padding: 14px;
+  color: #ebcb8b;
+}
+
+.vertical-line {
+  border-left: 6px solid #ebcb8b;
+  height: 120px;
+  margin-left: 18px;
+}
+
+.right-skills {
+  margin: 0 0 0 28px;
+  font-family: "Gill Sans", sans-serif;
+  color: #0a0a0a;
+}
+
+footer {
+  height: 150px;
+  background-color: #0a0a0a;
+}
